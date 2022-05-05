@@ -1,0 +1,23 @@
+{
+  "name": "jelkand-sicp",
+  "version": "1.0.0",
+  "description": "exercises for sicp js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelkand/sicp-js.git"
+  },
+  "author": "jelkand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jelkand/sicp-js/issues"
+  },
+  "homepage": "https://github.com/jelkand/sicp-js#readme",
+  "dependencies": {
+    "sicp": "^1.0.30"
+  },
+  "type": "module"
+}
